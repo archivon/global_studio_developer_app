@@ -1,0 +1,1 @@
+# global_studio_developer_app
